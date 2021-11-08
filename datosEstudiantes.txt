@@ -1,0 +1,3 @@
+Nombre: panaberto Apellido: Pecopon
+Carné:7590-21-3654 Edad: 24 Sexo: Masculino Carrera: Criminología
+Total creditos:15 Cantidad de cursos aprobados:4 Cantidad de cursos reprobados: 1
